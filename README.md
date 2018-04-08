@@ -1,5 +1,5 @@
 
-IREAD
+Read Me
 ===================================
 
 This is an Android app (based on Android 5.0 Lollipop) which promote adults and kids to read more. This app was build in a Gaminification hackathons of She Codes. The app won the 2nd place at this hackathon :)
